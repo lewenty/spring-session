@@ -4,11 +4,15 @@
     <title></title>
 </head>
 <body>
-<h5>This is Index Page.. </h5>
+<h5>Burası index sayfası.. </h5>
+
+<hr/>
 
 <p> Son giren kisi : <b>${personObj.firstName}</b> , kisinin yas i : <b>${personObj.age}</b></p>
 
-<a href="person-form.html"> Person Page </a>
+<hr/>
+
+<a href="person-form.html"> Giris Yap </a>
 
 </body>
 </html>
